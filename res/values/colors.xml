@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="province_line_border">#C7C7C7</color>
+    <!-- 设置透明度为56%(9/16)左右 -->
+    <color name="ips_transparent">#9000</color>
+    <color name="ips_red">#ffff0000</color>
+    <color name="ips_green">#ff00ff00</color>
+    <color name="ips_blue">#ff0000ff</color>
+    <color name="ips_white">#ffffffff</color>
+    <color name="ips_black">#00000000</color>
+
+    <color name="colorPrimary">#55000000</color>
+
+</resources>
