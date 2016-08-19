@@ -6,8 +6,8 @@ package com.ips.upmp;
  * @author Zhang Leilei.
  */
 public class Constant {
-    //public static 环境类型 后台服务环境 = 环境类型.商户生产;
-    public static 环境类型  后台服务环境 = 环境类型.商户测试;
+    public static 环境类型 后台服务环境 = 环境类型.商户生产;
+    //public static 环境类型  后台服务环境 = 环境类型.商户测试;
     //public static 环境类型  后台服务环境 = 环境类型.内部预测试;
     //public static 环境类型  后台服务环境 = 环境类型.陈苗苗本机;
     //public static 环境类型  后台服务环境 = 环境类型.SIT测试;
