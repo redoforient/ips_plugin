@@ -72,7 +72,7 @@ public class MobilePayActivity extends BaseActivity implements OnClickListener {
 			if (Tools.checkNullOrEmpty(banktn)) {
 				Tools.showToast(MobilePayActivity.this, "ˋ︿ˊ获取银联订单号失败！"+banktn);
 			} else {
-				Tools.showToast(MobilePayActivity.this, "^_^获取银联订单号成功!\n" + banktn);
+				//Tools.showToast(MobilePayActivity.this, "^_^获取银联订单号成功!\n" + banktn);
 				/*************************************************
 				 * 步骤2：通过银联工具类启动支付插件
 				 ************************************************/
